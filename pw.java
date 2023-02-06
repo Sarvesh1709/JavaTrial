@@ -2,11 +2,11 @@ class Pw
 {
  public void m1()
   {
-   ///code
+   ///code 1
   }
 
  public void m2()
   {
-   ///code
+   ///code 2
   }
 }
